@@ -1,0 +1,57 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+p{
+    color: blue;
+}
+.navegacion{
+    color: indianred;
+    display: inline-block;
+}
+#pais{
+    width: 200px;
+    height: 50px;
+}
+input{
+    color: green;
+}
+div{
+    border: 2px dashed indianred;
+    /* border-width: 3px;
+    border-style: solid;
+    border-color: indianred; */
+    padding: 20px 50px;
+    padding: 20px 20px 50px 70px;
+    margin: 10px;
+    width: 300px;
+}
+.titulo{
+    color: indianred;
+}
+#principal{
+    color: indigo;
+    background-color: khaki;
+    padding: 15px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttonSubmit{
+    width: 80px;
+    padding: 10px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    border-radius: 5px;
+}
+.buttonSubmit:hover{
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+.numeros > li {
+    color: rgb(122, 122, 13);
+}
+.numeros li{
+    color: blue;
+}
